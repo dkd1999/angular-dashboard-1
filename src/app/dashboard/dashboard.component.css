@@ -1,0 +1,23 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.area{
+    margin: 20px 0px
+}
+.tablepie{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+/* .tablepie .table{
+    width: 55%;
+}
+.tablepie .pie{
+    width: 40%;
+} */

@@ -1,0 +1,9 @@
+.flex-container ul{
+    display: flex;
+    list-style: none;
+    justify-content:flex-end;
+}
+.flex-container{
+    width: 100%;
+    color:gold;
+}

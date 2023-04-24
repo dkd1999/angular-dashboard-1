@@ -1,0 +1,31 @@
+.profile{
+    text-align: center;
+}
+.profile h3 {
+    font-weight: 600;
+    margin-bottom: 0;
+}
+h2{
+    font-size: medium;
+    padding-left: 10px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.pages{
+    display: flex;
+    flex-direction: column;
+}
+.pages a{
+    text-decoration: none;
+    color: #000;
+    height: 40px;
+    padding: 10px 0 0 10px;
+}
+.pages a:hover{
+    background-color: blanchedalmond;
+    color: blueviolet;
+}
+mat-icon{
+    vertical-align: middle; /* to align vertically*/
+    margin-right: 10px;
+}
